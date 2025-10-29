@@ -1,0 +1,14 @@
+{
+  "name": "webhook-inspector",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": [
+    "api",
+    "web"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.20.0"
+}
